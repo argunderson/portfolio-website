@@ -3907,3 +3907,11 @@ input, select, textarea {
 			}
 
 		}
+
+		form {
+			width: 30%;
+		}
+		
+		button {
+			margin-top: 2%;
+		}
